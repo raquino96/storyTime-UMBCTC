@@ -43,7 +43,7 @@ elif userSelection == 'b':
   print ("")
   #output for different scenarios based on number entered
   if userQuarter == 4:
-    print("It seems that the dryer is satisfied. The clunking ceases, and your laundry is adequately dry and fluffy at the end of your cycle. ")
+    print("It seems that the dryer is satisfied. The clunking ceases, and your laundry is adequately dry and fluffy at the end of your cycle. This continues on for the rest of your long life. ")
   elif userQuarter < 4:
         print("Whatever is in the machine is not satisfied. The loading door opens and something grabs you and yanks you inside......your body is never found")
   else:
